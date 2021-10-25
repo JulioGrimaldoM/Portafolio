@@ -1,6 +1,0 @@
-80 open
-Node with IP: 10.0.2.15 is up.
-Node with IP: 10.0.2.3 is up.
-Node with IP: 10.0.2.2 is up.
-Node with IP: 10.0.2.1 is up.
-Linux
